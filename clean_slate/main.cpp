@@ -6,7 +6,6 @@
 #include <fcntl.h>
 #include <io.h>
 #include <stdio.h>
-
 #include "utils.h"
 #include "CQLearningController.h"
 #include "CTimer.h"
